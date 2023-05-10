@@ -1,6 +1,12 @@
 # Terminal-Search
 This is a basic tool that allows you to search anything from the terminal and opens it up in chrome
 
+# Upcoming features
+Some of the upcoming features include:
++ Support for multiple browsers
++ ChatGPT integration
++ Account management for personalised results
+
 # Pre-requisites:
 + Python(version 3.7 or above)
 + Selenium python package
@@ -57,4 +63,17 @@ cd terminal-search
 ```
 sh removal.sh
 ```
++ Done.
 
+
+# Contributing
+We welcome contributions from the community! We appreciate your contributions to improve the project. If you'd like to contribute to terminal-search, please read the following guidelines on how to contribute:
++ Fork the repository and create a new branch for your changes.
++ Make your changes to the code.
++ Test your changes thoroughly.
++ Commit your changes with a clear and descriptive message.
++ Push your changes to your fork.
++ Create a pull request and wait for me to verify and then merge it to the main branch.
+
+# THANK YOU COMMUNITY!!!!
+ 
